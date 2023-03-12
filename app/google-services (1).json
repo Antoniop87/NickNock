@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56500235251",
+    "project_id": "nick-db015",
+    "storage_bucket": "nick-db015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56500235251:android:47b4c5962307bda1668086",
+        "android_client_info": {
+          "package_name": "br.com.nicknock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56500235251-vvklugsnta7cfssamk4sqpd4sn16dov5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDP1TW0qQCsIB-ptYO77P_Ggm50P4NVpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56500235251-vvklugsnta7cfssamk4sqpd4sn16dov5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
